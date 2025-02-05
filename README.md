@@ -27,4 +27,4 @@ Welcome to my GitHub profile! I'm passionate about creating elegant solutions to
 
 
 ## ⚡ For Fun
-[![ARNI IMITATIONS]](https://arniimitations.com/) 
+[![ARNI IMITATIONS](https://img.shields.io/badge/ARNI-White?style=flat&logo=Arni&logoColor=White&logoSize=auto)](https://arniimitations.com/) 
